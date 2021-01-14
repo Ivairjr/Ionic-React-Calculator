@@ -1,0 +1,7 @@
+{
+  "name": "MyKartApp-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
